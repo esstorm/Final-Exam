@@ -10,19 +10,19 @@ This repository contains the flashcards and other material used to prepare for t
 
 
 1.  Sequences, series, funcions, limits and continuity
-- [ ] Convergence of sequences of real and complex numbers and vectors
-- [ ] Monotonic sequences
-- [ ] Notion and convergence of infinite numerical series
-- [ ] Positive series
-- [ ] The root and the ratio test
-- [ ] Alternating (Leibniz type) series
-- [ ] Power series
-- [ ] The Cauchy–Hadamard theorem
-- [ ] Limits and continuity of vector–vector functions
+- [x] Convergence of sequences of real and complex numbers and vectors
+- [x] Monotonic sequences
+- [x] Notion and convergence of infinite numerical series
+- [x] Positive series
+- [x] The root and the ratio test
+- [x] Alternating (Leibniz type) series
+- [x] Power series
+- [x] The Cauchy–Hadamard theorem
+- [x] Limits and continuity of vector–vector functions
 - [ ] Properties of functions on a compact set: Theorems of Heine
-- [ ] Properties of functions on a compact set: Weierstrass
-- [ ] Continuity of the inverse function
-- [ ] The Bolzano theorem
+- [x] Properties of functions on a compact set: Weierstrass
+- [x] Continuity of the inverse function
+- [x] The Bolzano theorem
 
 2.  Differential and integral calculus and applications
 - [ ] Differentiation and integration of functions of one real variable
