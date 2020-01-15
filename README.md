@@ -25,16 +25,16 @@ This repository contains the flashcards and other material used to prepare for t
 - [x] The Bolzano theorem
 
 2.  Differential and integral calculus and applications
-- [ ] Differentiation and integration of functions of one real variable
-- [ ] Rules of differentiation
-- [ ] Theorems of Rolle, Cauchyand Lagrange
-- [ ] Extrema, concavity, discussion of functions
-- [ ] The Riemannian integral
-- [ ] Integration by parts, integration with substitution
-- [ ] The fundamental theorem of calculus (The Newton–Leibniz formula)
-- [ ] Area, arc length, volume, surface
-- [ ] Differentiation of vector–vector functions
-- [ ] Jacobi matrix, gradient, partial derivative
+- [x] Differentiation and integration of functions of one real variable
+- [x] Rules of differentiation
+- [x] Theorems of Rolle, Cauchyand Lagrange
+- [x] Extrema, concavity, discussion of functions
+- [x] The Riemannian integral
+- [x] Integration by parts, integration with substitution
+- [x] The fundamental theorem of calculus (The Newton–Leibniz formula)
+- [x] Area, arc length, volume, surface
+- [x] Differentiation of vector–vector functions
+- [x] Jacobi matrix, gradient, partial derivative
 
 3.  Systems of differential equations
 - [ ] The initial value problem
@@ -47,10 +47,10 @@ This repository contains the flashcards and other material used to prepare for t
 - [ ] Spline in-terpolation
 
 5.  Numerical solution of linear systems of equations
-- [ ] Gaussian elimination
-- [ ] Methods based on product decomposition
-- [ ] Iterative methods
-- [ ] Least-squares methods
+- [x] Gaussian elimination
+- [x] Methods based on product decomposition
+- [x] Iterative methods
+- [x] Least-squares methods
 
 6.  Sets, relations and enumeration problems
 - [ ] Basic operations on sets and their properties
@@ -68,11 +68,11 @@ This repository contains the flashcards and other material used to prepare for t
 - [ ] Labeling and coloring, Kruskal’s  algorithms  on minimal spanning trees
 
 8.  Basics  of  linear  algebra
-- [ ] Matrices
-- [ ] Determinants
-- [ ] Basis  and  dimension  in  vector spaces
-- [ ] Eigenvalues and eigenvectors of matrices, diagonalization
-- [ ] Orthogonal and orthonormal systems in Euclidean spaces
+- [x] Matrices
+- [x] Determinants
+- [x] Basis  and  dimension  in  vector spaces
+- [x] Eigenvalues and eigenvectors of matrices, diagonalization
+- [x] Orthogonal and orthonormal systems in Euclidean spaces
 
 
 9.  Basics of probability and statistics
@@ -104,13 +104,13 @@ This repository contains the flashcards and other material used to prepare for t
 - [ ] Usecase diagrams
 
 14.  Compilation and execution of programs
-- [ ] Compilers and interpreters, bytecode
-- [ ] Pre-processor, compiler, linker
-- [ ] Make
-- [ ] Compilation units, libraries
-- [ ] Syntactic and semantic rules
-- [ ] Static and dynamic type checking
-- [ ] Parallel programming
+- [x] Compilers and interpreters, bytecode
+- [x] Pre-processor, compiler, linker
+- [x] Make
+- [x] Compilation units, libraries
+- [x] Syntactic and semantic rules
+- [x] Static and dynamic type checking
+- [x] Parallel programming
 
 15.  Data, operators and control structures
 - [ ] Representation of numbers, basic data types
@@ -131,11 +131,11 @@ This repository contains the flashcards and other material used to prepare for t
 - [ ] Overloading
 
 17.  Compilers
-- [ ] Structure of compilers, the tasks of the components
-- [ ] Lexical analyzer and its functions, implementation
-- [ ] Classification and comparison of syntactic analyzers, overview of their creation and functioning
+- [x] Structure of compilers, the tasks of the components
+- [x] Lexical analyzer and its functions, implementation
+- [x] Classification and comparison of syntactic analyzers, overview of their creation and functioning
 - [ ] The notion and use of ATGs
-- [ ] Code generation in assembly for basic imperative constructs
+- [x] Code generation in assembly for basic imperative constructs
 
 18.  Logic
 - [ ] The syntax and semantics of propositional and predicate calculus
@@ -169,12 +169,12 @@ This repository contains the flashcards and other material used to prepare for t
 - [ ] Finite automata and pushdown automata
 
 23.  Operating systems—parallel processes
-- [ ] The notion and implementation of process and thread
-- [ ] Interactive, batch and real-time processes, scheduling algorithms
-- [ ] Types of parallelism, race conditions, critical sections
-- [ ] Shared memory and messaging
-- [ ] Semafors and monitors
-- [ ] Deadlocks: description, avoidance, prevention, recognition
+- [x] The notion and implementation of process and thread
+- [x] Interactive, batch and real-time processes, scheduling algorithms
+- [x] Types of parallelism, race conditions, critical sections
+- [x] Shared memory and messaging
+- [x] Semafors and monitors
+- [x] Deadlocks: description, avoidance, prevention, recognition
 
 24.  Operating  systems—storage  handling
 - [ ] Hierarchy  of  storages
@@ -191,27 +191,27 @@ This repository contains the flashcards and other material used to prepare for t
 - [ ] Physical layer, data link layer, MAC, network layer, transport layer—services, methods, protocols
 
 26.  Distributed  systems
-- [ ] Definition
-- [ ] Design goals
-- [ ] Distribution  transparency
-- [ ] Typesof distributed systems
-- [ ] Architectures
-- [ ] Middleware
-- [ ] Processes
-- [ ] Threads
-- [ ] Virtualiza-tion
-- [ ] Clients-servers
-- [ ] Code migration
-- [ ] Types of communication (transient, persistent,message-oriented, RPC, multicasting, data dissemination)
-- [ ] Naming (flat, structured,attributed)
-- [ ] Coordination
-- [ ] Clock synchronization
-- [ ] Logical clocks
-- [ ] Vector clocks
-- [ ] Mutual exclusion
-- [ ] Election algorithms
-- [ ] Location systems
-- [ ] Consistency and replication
+- [x] Definition
+- [x] Design goals
+- [x] Distribution  transparency
+- [x] Typesof distributed systems
+- [x] Architectures
+- [x] Middleware
+- [x] Processes
+- [x] Threads
+- [x] Virtualiza-tion
+- [x] Clients-servers
+- [x] Code migration
+- [x] Types of communication (transient, persistent,message-oriented, RPC, multicasting, data dissemination)
+- [x] Naming (flat, structured,attributed)
+- [x] Coordination
+- [x] Clock synchronization
+- [x] Logical clocks
+- [x] Vector clocks
+- [x] Mutual exclusion
+- [x] Election algorithms
+- [x] Location systems
+- [x] Consistency and replication
 
 27.  Databases—query languages
 - [ ] Relational model, entity–relationship model, transfor-mation from ER to relational model
