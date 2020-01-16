@@ -42,9 +42,11 @@ This repository contains the flashcards and other material used to prepare for t
 - [ ] Linear equations of higher-order
 
 4.  Methods of interpolation
-- [ ] Lagrange interpolation
-- [ ] Hermite interpolation
-- [ ] Spline in-terpolation
+- [x] Lagrange interpolation
+- [x] Hermite interpolation
+- [x] Spline in-terpolation
+Extra:
+	[ ] 3rd degree spline interpolation (cubic)
 
 5.  Numerical solution of linear systems of equations
 - [x] Gaussian elimination
@@ -62,10 +64,10 @@ This repository contains the flashcards and other material used to prepare for t
 - [ ] Binomial theorem
 
 7.  Undirected and directed graphs
-- [ ] Basic concepts in graph theory: vertex, edge, degree, walk,  trail,  path,  cycle,  connectivity,  component
-- [ ] Trees  and  their  characterizations
-- [ ] Eulerian and Hamiltonian  graphs
-- [ ] Labeling and coloring, Kruskal’s  algorithms  on minimal spanning trees
+- [x] Basic concepts in graph theory: vertex, edge, degree, walk,  trail,  path,  cycle,  connectivity,  component
+- [x] Trees  and  their  characterizations
+- [x] Eulerian and Hamiltonian  graphs
+- [x] Labeling and coloring, Kruskal’s  algorithms  on minimal spanning trees
 
 8.  Basics  of  linear  algebra
 - [x] Matrices
@@ -83,9 +85,9 @@ This repository contains the flashcards and other material used to prepare for t
 - [ ] Classical statistical tests
 
 10.  Artificial intelligence
-- [ ] Path-finding problems and their modelling with directed graph(state-space model, problem decomposition model)
-- [ ] Heuristic path-finding algorithms (their outcomes and computational cost): local searches, backtracking algorithms, graph searches (A, A∗, AC, Balgorithm)
-- [ ] Two-player games (game tree, existence of winning strategy, minimax algorithm, alpha-beta pruning)
+- [x] Path-finding problems and their modelling with directed graph(state-space model, problem decomposition model)
+- [x] Heuristic path-finding algorithms (their outcomes and computational cost): local searches, backtracking algorithms, graph searches (A, A∗, AC, Balgorithm)
+- [x] Two-player games (game tree, existence of winning strategy, minimax algorithm, alpha-beta pruning)
 
 11.  Programming theorems
 - [x] Usage of programming theorems in programming
@@ -199,7 +201,7 @@ This repository contains the flashcards and other material used to prepare for t
 - [x] Middleware
 - [x] Processes
 - [x] Threads
-- [x] Virtualiza-tion
+- [x] Virtualization
 - [x] Clients-servers
 - [x] Code migration
 - [x] Types of communication (transient, persistent,message-oriented, RPC, multicasting, data dissemination)
