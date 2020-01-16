@@ -88,10 +88,10 @@ This repository contains the flashcards and other material used to prepare for t
 - [ ] Two-player games (game tree, existence of winning strategy, minimax algorithm, alpha-beta pruning)
 
 11.  Programming theorems
-- [ ] Usage of programming theorems in programming
-- [ ] Summation, counting, maximum search, conditional maximum search
-- [ ] Sequential search
-- [ ] Binary search
+- [x] Usage of programming theorems in programming
+- [x] Summation, counting, maximum search, conditional maximum search (conditional maximum search is missing)
+- [x] Sequential search
+- [x] Binary search
 
 12.  Software development models
 - [ ] Development stages of large scale systems
