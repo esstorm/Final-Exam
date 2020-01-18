@@ -166,9 +166,9 @@ Extra:
 - [ ] Sorting in linear time: bucket sorts, radix sorts
 
 22.  Formal languages
-- [ ] Generative grammars, the Chomsky hierarchy
-- [ ] Basic properties and application of regular and context-free grammars and languages
-- [ ] Finite automata and pushdown automata
+- [x] Generative grammars, the Chomsky hierarchy
+- [x] Basic properties and application of regular and context-free grammars and languages
+- [x] Finite automata and pushdown automata
 
 23.  Operating systems—parallel processes
 - [x] The notion and implementation of process and thread
@@ -190,7 +190,7 @@ Extra:
 - [ ] Block reservation strategies, registering free storage space, journaled file systems
 
 25.  Computer networks
-- [ ] Physical layer, data link layer, MAC, network layer, transport layer—services, methods, protocols
+- [x ] Physical layer, data link layer, MAC, network layer, transport layer—services, methods, protocols
 
 26.  Distributed  systems
 - [x] Definition
