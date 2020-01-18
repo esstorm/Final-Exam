@@ -37,9 +37,9 @@ This repository contains the flashcards and other material used to prepare for t
 - [x] Jacobi matrix, gradient, partial derivative
 
 3.  Systems of differential equations
-- [ ] The initial value problem
-- [ ] Linear systems of differential equations
-- [ ] Linear equations of higher-order
+- [x] The initial value problem
+- [x] Linear systems of differential equations
+- [x] Linear equations of higher-order
 
 4.  Methods of interpolation
 - [x] Lagrange interpolation
@@ -55,13 +55,13 @@ Extra:
 - [x] Least-squares methods
 
 6.  Sets, relations and enumeration problems
-- [ ] Basic operations on sets and their properties
-- [ ] Binary relations and their properties (transitivity, etc.)
-- [ ] Partial orderings and equivalence  relations
-- [ ] Permutations, variations, combinations
-- [ ] Inclusion-exclusion principle
-- [ ] Pigeonhole principle
-- [ ] Binomial theorem
+- [x] Basic operations on sets and their properties
+- [x] Binary relations and their properties (transitivity, etc.)
+- [x] Partial orderings and equivalence  relations
+- [x] Permutations, variations, combinations
+- [x] Inclusion-exclusion principle
+- [x] Pigeonhole principle
+- [x] Binomial theorem
 
 7.  Undirected and directed graphs
 - [x] Basic concepts in graph theory: vertex, edge, degree, walk,  trail,  path,  cycle,  connectivity,  component
@@ -78,9 +78,9 @@ Extra:
 
 
 9.  Basics of probability and statistics
-- [ ] Discrete and continuous random variables
-- [ ] Law of large numbers
-- [ ] Central limit theorem
+- [x] Discrete and continuous random variables
+- [x] Law of large numbers
+- [x] Central limit theorem
 - [ ] Statistical estimates
 - [ ] Classical statistical tests
 
@@ -115,13 +115,13 @@ Extra:
 - [x] Parallel programming
 
 15.  Data, operators and control structures
-- [ ] Representation of numbers, basic data types
-- [ ] User defined types
-- [ ] Operators, expression evaluation
-- [ ] Statements, control structures,recursion,  exception  handling
-- [ ] Data  abstraction
-- [ ] Class,  inheritance,  static  and  dy-namic binding, subtype polymorphism
-- [ ] Generics
+- [x] Representation of numbers, basic data types
+- [x] User defined types
+- [x] Operators, expression evaluation
+- [x] Statements, control structures,recursion,  exception  handling
+- [x] Data  abstraction
+- [x] Class,  inheritance,  static  and  dy-namic binding, subtype polymorphism
+- [x] Generics
 
 16.  Program structure
 - [ ] Block, visibility, scope
