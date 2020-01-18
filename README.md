@@ -145,17 +145,17 @@ Extra:
 - [ ] Basic methods for proving logical consequences in propositional calculus: truth tables, the method of semantic tableaux, and the resolution
 
 19.  Theory of computation
-- [ ] The Church–Turing thesis
-- [ ] Variants of Turing machines (one tape – multi tape, deterministic – non-deterministic)
-- [ ] Recursive and recursively enumerable languages
-- [ ] Undecidable problems
-- [ ] Reducibility
-- [ ] The time complexity classes P and NP
-- [ ] Polinomial time reducibility
-- [ ] NP-complete problems
-- [ ] The space complexityclasses PSPACE and NPSPACE
-- [ ] Savitch’s theorem
-- [ ] PSPACE-complete problems
+- [x] The Church–Turing thesis
+- [x] Variants of Turing machines (one tape – multi tape, deterministic – non-deterministic)
+- [x] Recursive and recursively enumerable languages
+- [x] Undecidable problems
+- [x] Reducibility
+- [x] The time complexity classes P and NP
+- [x] Polinomial time reducibility
+- [x] NP-complete problems
+- [x] The space complexityclasses PSPACE and NPSPACE
+- [x] Savitch’s theorem
+- [x] PSPACE-complete problems
 
 20.  Data structures
 - [ ] Representations and operations of basic data structures—array, stack, queue, priority queue, list, binary tree, graph
