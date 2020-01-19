@@ -161,9 +161,9 @@ Extra:
 - [ ] Representations and operations of basic data structures—array, stack, queue, priority queue, list, binary tree, graph
 
 21.  Basic algorithms
-- [ ] Representations of search data structures (binary search tree, AVLtree, 2-3 tree, B tree, hashing with chaining and open addressing)
-- [ ] Sorting algorithms and their efficiency (bubble, insert, maximum selection, tournament, heap, quick and merge sort algorithms)
-- [ ] Sorting in linear time: bucket sorts, radix sorts
+- [x] Representations of search data structures (binary search tree, AVLtree, 2-3 tree, B tree, hashing with chaining and open addressing)
+- [x] Sorting algorithms and their efficiency (bubble, insert, maximum selection, tournament, heap, quick and merge sort algorithms)
+- [x] Sorting in linear time: bucket sorts, radix sorts
 
 22.  Formal languages
 - [x] Generative grammars, the Chomsky hierarchy
