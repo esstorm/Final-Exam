@@ -190,7 +190,7 @@ Extra:
 - [ ] Block reservation strategies, registering free storage space, journaled file systems
 
 25.  Computer networks
-- [x ] Physical layer, data link layer, MAC, network layer, transport layer—services, methods, protocols
+- [x] Physical layer, data link layer, MAC, network layer, transport layer—services, methods, protocols
 
 26.  Distributed  systems
 - [x] Definition
@@ -216,10 +216,10 @@ Extra:
 - [x] Consistency and replication
 
 27.  Databases—query languages
-- [ ] Relational model, entity–relationship model, transfor-mation from ER to relational model
-- [ ] Relational algebra, SQL, Datalog
-- [ ] Recursion inquery languages
-- [ ] Procedural elements in query langauges (variables,  control struc-tures, subprograms, cursors, exceptions)
+- [x] Relational model, entity–relationship model, transformation from ER to relational model
+- [x] Relational algebra, SQL, Datalog
+- [x] Recursion inquery languages
+- [x] Procedural elements in query langauges (variables,  control structures, subprograms, cursors, exceptions)
 
 28.  Databases—query execution
 - [ ] Index structures, sparse and dense index, B+ tree, bitmap index,  dynamic  hashing
