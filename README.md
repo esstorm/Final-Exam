@@ -222,6 +222,8 @@ Extra:
 - [x] Procedural elements in query langauges (variables,  control structures, subprograms, cursors, exceptions)
 
 28.  Databases—query execution
-- [ ] Index structures, sparse and dense index, B+ tree, bitmap index,  dynamic  hashing
-- [ ] One-pass  and  two-pass  algorithms,  sort  based  and  hash-based algorithms
-- [ ] Join methods, cost of operations, query execution plans
+- [x] Index structures, sparse and dense index, B+ tree, bitmap index,  dynamic  hashing
+- [x] One-pass  and  two-pass  algorithms,  sort  based  and  hash-based algorithms
+- [x] Join methods
+- [ ] Cost of operations
+- [ ] Query execution plans
