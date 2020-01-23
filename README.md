@@ -102,8 +102,8 @@ Extra:
 - [ ] The notion of software design patterns
 
 13.  Static and dynamic models
-- [ ] Static model (class diagram, object diagram)
-- [ ] Usecase diagrams
+- [x] Static model (class diagram, object diagram)
+- [x] Usecase diagrams
 
 14.  Compilation and execution of programs
 - [x] Compilers and interpreters, bytecode
@@ -158,7 +158,7 @@ Extra:
 - [x] PSPACE-complete problems
 
 20.  Data structures
-- [ ] Representations and operations of basic data structures—array, stack, queue, priority queue, list, binary tree, graph
+- [x] Representations and operations of basic data structures—array, stack, queue, priority queue, list, binary tree, graph
 
 21.  Basic algorithms
 - [x] Representations of search data structures (binary search tree, AVLtree, 2-3 tree, B tree, hashing with chaining and open addressing)
