@@ -96,10 +96,10 @@ Extra:
 - [x] Binary search
 
 12.  Software development models
-- [ ] Development stages of large scale systems
-- [ ] The concept of object-oriented programming, type inheritance
-- [ ] Views of object-oriented modeling, UML tools
-- [ ] The notion of software design patterns
+- [x] Development stages of large scale systems (ambiguous)
+- [x] The concept of object-oriented programming, type inheritance
+- [x] Views of object-oriented modeling, UML tools (wtf is views?)
+- [x] The notion of software design patterns
 
 13.  Static and dynamic models
 - [x] Static model (class diagram, object diagram)
