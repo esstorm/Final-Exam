@@ -124,13 +124,13 @@ Extra:
 - [x] Generics
 
 16.  Program structure
-- [ ] Block, visibility, scope
-- [ ] Automatic, static and dynamic variables,garbage collection
-- [ ] Constructor, destructor
-- [ ] Cloning and comparing objects
-- [ ] Programmodules, namespaces
-- [ ] Subroutines, parameter passing
-- [ ] Overloading
+- [x] Block, visibility, scope
+- [x] Automatic, static and dynamic variables,garbage collection
+- [x] Constructor, destructor
+- [x] Cloning and comparing objects
+- [x] Programmodules, namespaces
+- [x] Subroutines, parameter passing
+- [x] Overloading
 
 17.  Compilers
 - [x] Structure of compilers, the tasks of the components
